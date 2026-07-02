@@ -24,7 +24,7 @@ A minimal, fast and modern configuration for the Fish shell.
 ## 📂 Structure
 
 ```text
-fish/
+fish-asami/
 ├── completions/
 ├── conf.d/
 ├── functions/
