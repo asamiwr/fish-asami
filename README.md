@@ -61,14 +61,9 @@ git clone https://github.com/<your-username>/fish-config.git
 Copy or symlink the files into your Fish configuration directory:
 
 ```bash
-cp -r fish/* ~/.config/fish/
+cp -r fish-asami/* ~/.config/fish/
 ```
 
-or
-
-```bash
-ln -s <repo>/fish ~/.config/fish
-```
 
 Restart Fish or reload the configuration:
 
