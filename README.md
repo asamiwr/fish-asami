@@ -55,7 +55,7 @@ fish-asami/
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/fish-config.git
+git clone https://github.com/asamiwr/fish-asami.git
 ```
 
 Copy or symlink the files into your Fish configuration directory:
