@@ -101,7 +101,7 @@ Optional (recommended):
 
 ## 📸 Preview
 
-assets/Screenshot_20260702_201352.png
+assets/preview.png
 
 ---
 
