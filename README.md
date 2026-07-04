@@ -101,7 +101,9 @@ Optional (recommended):
 
 ## 📸 Preview
 
-assets/preview.png
+<p align="center">
+  <img src="assets/preview.png" alt="Preview" width="900">
+</p>
 
 ---
 
