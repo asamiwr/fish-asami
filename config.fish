@@ -6,3 +6,5 @@ source ~/.config/fish/paths.fish
 source ~/.config/fish/colors.fish
 source ~/.config/fish/cursor.fish
 source ~/.config/fish/aliases.fish
+
+

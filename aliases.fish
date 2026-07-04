@@ -7,7 +7,7 @@ alias la='lsd -lah --group-dirs first'
 alias lt='lsd --tree'
 
 alias cat='bat'
-alias grep='rg'
+# alias grep='rg'
 alias find='fd'
 alias du='dust'
 

@@ -38,8 +38,8 @@ function fish_prompt
     printf "%s" (whoami)
 
 
-    set_color normal
-    printf "@"
+    set_color brown
+    printf "  "
 
     set_color cyan
     printf "%s" (hostname -s)
@@ -64,7 +64,7 @@ function fish_prompt
 
     # clock
     set_color brblack
-    printf " 󰥔 %s" (date "+%H:%M")
+    printf "  %s" (date "+%H:%M")
 
     # prompt symbol
     if test $last_status -eq 0
@@ -73,7 +73,7 @@ function fish_prompt
         set_color red
     end
 
-    printf "   "
-
+ #   printf "   "
+    printf " 󰄛 "
     set_color normal
 end
