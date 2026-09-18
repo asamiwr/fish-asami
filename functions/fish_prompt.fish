@@ -26,6 +26,7 @@ function __project_icon
 end
 
 function __git_branch
+    type -q git; or return
     command git rev-parse --is-inside-work-tree >/dev/null 2>&1; or return
     command git branch --show-current 2>/dev/null
 end
